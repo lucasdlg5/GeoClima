@@ -1,6 +1,6 @@
 # GeoLocalizaClima
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Descrição
@@ -31,6 +31,7 @@ Os agradecimentos vão para estas maravilhosas pessoas 👀
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/lucasdlg5"><img src="https://avatars.githubusercontent.com/u/15839576?v=4?s=100" width="100px;" alt="Lucas Domingos Leão Gomes"/><br /><sub><b>Lucas Domingos Leão Gomes</b></sub></a><br /><a href="#projectManagement-lucasdlg5" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://github.com/kikawarichard"><img src="https://avatars.githubusercontent.com/u/60164646?v=4?s=100" width="100px;" alt="kikawarichard"/><br /><sub><b>kikawarichard</b></sub></a><br /><a href="https://github.com/lucasdlg5/GeoLocalizaClima/commits?author=kikawarichard" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
