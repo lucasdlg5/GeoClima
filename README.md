@@ -6,6 +6,7 @@
 ## Descrição
 
 Este programa tem a intenção de aprender a implementar uma idéia a partir do Eliezer :tada: .
+
 A idéia parte da seguinte descrição:
 
 Exibir informações climaticas de uma dada região;
