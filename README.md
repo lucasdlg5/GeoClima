@@ -21,7 +21,7 @@ A implementação será ampliada em partes:
 8. Tranformar em aplicativo
 
 ## Contribuidores  ✨
-Os agradecimentos vão para estas maravilhosas pessoas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Os agradecimentos vão para estas maravilhosas pessoas 👀
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
