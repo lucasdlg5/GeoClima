@@ -5,11 +5,13 @@
 
 ## Descrição
 
-Este programa tem a intenção de aprender a implementar uma idéia a partir do Eliezer :tada: .
+Este programa tem a intenção de aprender a implementar uma idéia a partir do Eliezer :tada:
 
-A idéia parte da seguinte descrição:
+## A idéia (WIP)
 
-Exibir informações climaticas de uma dada região;
+Exibir informações climaticas de uma dada região
+
+## Desenvolvimento
 
 A implementação será ampliada em partes:
 
