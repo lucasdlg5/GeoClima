@@ -9,7 +9,7 @@ Este programa tem a intenção de aprender a implementar uma idéia a partir do 
 
 ## A idéia (WIP)
 
-Exibir informações climaticas de uma dada região
+Exibir informações climaticas de uma dada região com input de dados geográficos X & Y
 
 ## Desenvolvimento
 
