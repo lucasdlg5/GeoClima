@@ -7,6 +7,8 @@
 
 Este programa tem a intenção de aprender a implementar uma idéia a partir do Eliezer :tada:
 
+## A idéia (WIP)
+
 O projeto tem como objetivo exibir informações geográficas dos locais com parametros de entrada como:
 - Latitude e Longitude
 - Nome de cidade
@@ -20,11 +22,6 @@ Sua resposta será:
 - Dados sobre Precipitação 
 
 A intenção é de exibir estas informações de maneira simples e fácil de visualizar.
-
-
-## A idéia (WIP)
-
-Exibir informações climaticas de uma dada região com input de dados geográficos X & Y
 
 ## Desenvolvimento
 
