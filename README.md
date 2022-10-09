@@ -17,7 +17,7 @@ O projeto tem como objetivo exibir informações geográficas dos locais com par
 - Altitude
 
 Sua resposta será: 
-- Cidades equivalentes ou apriximadas ao paramento fornecido na entrada
+- Cidades equivalentes ou aproximadas ao paramento fornecido na entrada
 - Temperatura (Dia/Noite) Diario/Semanal/Mensal
 - Dados sobre Precipitação 
 
