@@ -7,6 +7,8 @@
 
 Este programa tem a intenção de aprender a implementar uma idéia a partir do Eliezer :tada:
 
+O projeto tem como objetivo exibir informações geográficas de uma dada posição, sendo possível a busca pelo nome do lugar (ex: São José dos Campos), nesse caso exibindo informações como: Temperatura diurna e noturna de cada mês, precipitação de cada mês e total, latitude e altitude; também sendo possível a pesquisa pela latitude ou outras informações geográficas, (Ex: latitude - 23 exibe são josé dos campos como área de interesse, como também outras cidades localizadas na mesma banda, sendo possível refinar essa busca com precipitação e/ou altitude.) o objetivo final é compilar de maneira simples informações geográficas de estações ao redor do planeta.
+
 ## A idéia (WIP)
 
 Exibir informações climaticas de uma dada região com input de dados geográficos X & Y
