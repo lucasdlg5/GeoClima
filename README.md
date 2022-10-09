@@ -26,9 +26,10 @@ A intenção é de exibir estas informações de maneira simples e fácil de vis
 ## Desenvolvimento
 
 A implementação será ampliada em partes:
-
-- [ ] Desenvolver Back-end aplicando a lógica da idéia (Python ou JavaScript)
-- [ ] Implementar e testar lógica via Prompt de Comando
+- [X] Ideia inicial
+- [ ] Desenvolvimento inicial da idéia e refinamento (Em progresso 🎇)
+- [ ] Desenvolver lógica como Back-end aplicando (Python ou JavaScript)
+- [ ] Testar lógica via Prompt de Comando
 - [ ] Adicionar funcionalidades extras
 - [ ] Implementar interface gráfica WindowsForms (C# ou JavaScript)
 - [ ] Criação de API (C# ou JavaScript)
