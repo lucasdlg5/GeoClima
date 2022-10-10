@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\bin\Debug\net6.0\GeoLocalizaConsole.exe
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\bin\Debug\net6.0\GeoLocalizaConsole.deps.json
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\bin\Debug\net6.0\GeoLocalizaConsole.runtimeconfig.json
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\bin\Debug\net6.0\GeoLocalizaConsole.dll
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\bin\Debug\net6.0\GeoLocalizaConsole.pdb
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.dll
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\refint\GeoLocalizaConsole.dll
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.pdb
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\GeoLocalizaConsole.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Projetos\GeoClima\GeoLocalizaConsole\GeoLocalizaConsole\obj\Debug\net6.0\ref\GeoLocalizaConsole.dll
