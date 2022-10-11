@@ -41,12 +41,21 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DanteCry0",
+      "name": "Dante Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115418428?v=4",
+      "profile": "https://github.com/DanteCry0",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "GeoLocalizaClima",
+  "projectName": "GeoClima",
   "projectOwner": "lucasdlg5"
 }
